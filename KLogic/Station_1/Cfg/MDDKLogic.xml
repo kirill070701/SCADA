@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<KLogicSettingForMDD><Controller><Settings><Name>Контроллер 1</Name><StaticGUID>{6291E15A-60F0-4846-A586-08B29E5056F7}</StaticGUID></Settings></Controller><Alarm><Use>False</Use><Port>1</Port><CheckModemPeriod>30</CheckModemPeriod><TautBit>50</TautBit></Alarm><Info><Use>False</Use><Port>30293</Port></Info><Proxy><Use>False</Use><IP>127.0.0.1</IP><Port>30294</Port></Proxy><EnComSrv><IP>127.0.0.1</IP><Port>28915</Port></EnComSrv></KLogicSettingForMDD>

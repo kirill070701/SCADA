@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<KLogicDocument IDE_Ver="1.18.0.1815">
+  <Setting_project>
+    <DebugValuesNumSigns>2</DebugValuesNumSigns>
+  </Setting_project>
+  <GlobalScriptSettings/>
+  <Alarm>
+    <Use>False</Use>
+    <Port>1</Port>
+    <CheckModemPeriod>30</CheckModemPeriod>
+    <TautBit>50</TautBit>
+  </Alarm>
+  <Info>
+    <Use>False</Use>
+    <Port>30293</Port>
+  </Info>
+  <Proxy>
+    <Use>False</Use>
+    <IP>127.0.0.1</IP>
+    <Port>30294</Port>
+  </Proxy>
+  <EnComSrv>
+    <IP>127.0.0.1</IP>
+    <Port>28915</Port>
+  </EnComSrv>
+  <Controller>
+    <Settings>
+      <Signature>None-target</Signature>
+      <GroupName>None-target</GroupName>
+      <Name>Контроллер 1</Name>
+      <UserComment></UserComment>
+      <StaticGUID>{6291E15A-60F0-4846-A586-08B29E5056F7}</StaticGUID>
+    </Settings>
+  </Controller>
+</KLogicDocument>

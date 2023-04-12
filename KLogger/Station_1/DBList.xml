@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DBList>
+  <DB>
+    <GUID>{EC6DD2FC-502C-4F1B-B794-D67909A6DD50}</GUID>
+    <Name>Новая БД 1</Name>
+    <Type>0</Type>
+    <DBMSType>0</DBMSType>
+    <IBMainCfg>
+      <ServerIsStation>true</ServerIsStation>
+      <ServerStationId>1</ServerStationId>
+      <FileName>C:\Users\kiril\OneDrive\Рабочий стол\4курс\практика\Новая папка (7)\Base\kdb_Oper_00.fdb</FileName>
+      <UserName>sysdba</UserName>
+      <Password>ЬРВЕФГЪФИ</Password>
+      <ServerPort>3050</ServerPort>
+    </IBMainCfg>
+    <Reserving>true</Reserving>
+    <IBReservCfg>
+      <ServerIsStation>true</ServerIsStation>
+      <ServerStationId>1</ServerStationId>
+      <FileName>C:\Users\kiril\OneDrive\Рабочий стол\4курс\практика\Новая папка (7)\Base\kdb_r.fdb</FileName>
+      <UserName>sysdba</UserName>
+      <Password>ЬРВЕФГЪФИ</Password>
+      <ServerPort>3050</ServerPort>
+    </IBReservCfg>
+    <Version>10</Version>
+  </DB>
+</DBList>

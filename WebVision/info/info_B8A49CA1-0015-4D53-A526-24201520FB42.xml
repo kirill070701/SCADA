@@ -1,0 +1,3 @@
+﻿<paramsinfo status="0" msg="OK">
+<param pid="1:222:1:1" pstation="Новая станция\Контроллер 1" ptype="Аналоговый выход (Вещественный)" pgroup="Задача 1\ДемоСигнал 1" pident="1" pcipher="Выход 1" pname="Значение демо сигнала" pmeasure="" psscope="0" pescope="100" pzone="Контроллер 1" ppath="KLogic\Новая станция\Контроллер 1\Задача 1\ДемоСигнал 1" />
+</paramsinfo>
